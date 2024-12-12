@@ -1,4 +1,5 @@
 # Shri Krishna Store (Excel Data Analysis Dashboard)
-##Project Objective
+## Project Objective
 
-The Shri Krishna Store wants to create an annual sales report for 2023. So that, the owner of the Shri Krishna store can understand their customers and grow more sales in  2024.   
+  In this project, I developed an interactive Excel dashboard to analyze sales data for ShriKrishna Store in 2024. The dashboard provides detailed insights into sales trends, customer demographics, and key performance metrics, aiding in strategic decision-making for improving sales and customer engagement.
+
